@@ -7,6 +7,6 @@ Desafio 1: Conceitos do NodeJS
 npm install
 
 ## Executar o projeto
-npm dev
+npm run dev
 
 
